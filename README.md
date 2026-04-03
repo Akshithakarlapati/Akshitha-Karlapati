@@ -15,55 +15,23 @@ Business Analytics postgraduate student with a strong foundation in data analyti
 - Co-authored a **cybersecurity publication** focused on cyber hygiene and awareness  
 
 ---
-
-## Skills:
-
-### Data Analytics & Visualization
-- Power BI, Tableau  
-- Excel (Pivot Tables, VLOOKUP/XLOOKUP, SUMIFS, Data Cleaning, Reporting)  
-- Dashboard Development & Data Storytelling  
-
-### Programming & Data Tools
-- Python (Pandas, NumPy – basics)  
-- SQL (basic querying)  
-- RapidMiner, Jupyter Notebook  
-
-### Business Analysis
-- Requirements Gathering  
-- BRD / FRD Documentation  
-- User Stories & Use Cases  
-- Business Process Modelling  
-- Gap Analysis & Stakeholder Management  
-
-### Consulting & Strategy
-- Market Research & Competitive Benchmarking  
-- Business Case Development  
-- Strategic Analysis & Problem Solving  
-- Insight Generation & Executive Reporting  
-
-### Project Management
-- Agile Methodology, SDLC  
-- JIRA, Confluence  
-- Project Planning & Tracking  
-
-### Data & Analytical Techniques
-- Data Cleaning & Validation  
-- KPI Development & Performance Tracking  
-- Descriptive & Predictive Analytics  
-- Price Sensitivity & Business Strategy Analysis  
-
-### Cloud & Technology
-- Cloud Computing Basics  
-- Microsoft Azure Fundamentals  
-- AI Productivity Tools  
-
-### Soft Skills
-- Analytical Thinking & Problem Solving  
-- Communication & Presentation Skills  
-- Collaboration & Teamwork  
-- Time Management & Adaptability  
-- Attention to Detail  
-
+## Skills
+**Data Analytics & Visualization:**  
+Power BI, Tableau, Microsoft Excel (Pivot Tables, VLOOKUP/XLOOKUP, SUMIFS, Data Cleaning, Reporting), Data Visualization, Dashboard Development  
+**Programming & Tools:**  
+Python (Pandas, NumPy – basics), RapidMiner, SQL (basic), Jupyter Notebook  
+**Business Analysis:**  
+Requirements Gathering, BRD/FRD Documentation, User Stories, Use Cases, Business Process Modelling, Gap Analysis, Stakeholder Management  
+**Consulting & Research:**  
+Market Research, Competitive Benchmarking, Process Analysis, Business Case Development, Report Writing, Insight Generation & Storytelling  
+**Project Management & Tools:**  
+Agile, SDLC, JIRA, Confluence, Project Planning, Scheduling, PMO Reporting  
+**Data & Analytics Techniques:**  
+Data Cleaning, Data Validation, KPI Development, Descriptive Analytics, Predictive Analytics, Price Sensitivity Analysis  
+**Cloud & Technology:**  
+Cloud Computing Basics, Microsoft Azure Fundamentals, AI Productivity Tools  
+**Soft Skills:**  
+Analytical Thinking, Problem Solving, Communication, Collaboration, Presentation Skills, Time Management, Adaptability, Attention to Detail  
 ---
 
 ## Experience:
