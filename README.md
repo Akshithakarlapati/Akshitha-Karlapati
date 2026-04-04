@@ -62,7 +62,12 @@ Business Analytics postgraduate student with a strong foundation in data analyti
 
 ### Phishing Awareness Dashboard (Power BI)
 - Built interactive dashboards to analyze user behavior and cybersecurity risks  
-- Identified high-risk users and improved security monitoring insights  
+- Identified high-risk users and improved security monitoring insights
+- - Developed interactive Power BI dashboards for phishing campaign analysis  
+- Analysed user behaviour, risk scores, and training effectiveness  
+- Provided actionable insights to improve cybersecurity awareness  
+- 🔗 [View Project Repository](https://github.com/Akshithakarlapati/Phishing-Awareness-Cybersecurity-Analytics-Dashboard)
+
 
 ### Airbnb Pricing Strategy Analysis
 - Analyzed customer demand and price sensitivity  
